@@ -1,4 +1,3 @@
-![divvy](https://user-images.githubusercontent.com/55123200/136671018-aee72672-7d20-463d-a7e7-f2a18fb4a707.jpg)
 # Bikeshare_project
 bikeshare project
 
